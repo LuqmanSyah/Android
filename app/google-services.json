@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "642896628961",
+    "project_id": "formlogin-98057",
+    "storage_bucket": "formlogin-98057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642896628961:android:14ecd374446ef3d9477ba0",
+        "android_client_info": {
+          "package_name": "com.example.formlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642896628961-3jgjg4konnhc0l7a94jvmnvedve44a39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.formlogin",
+            "certificate_hash": "30b4ac14962c1a7762de57d3bd768321d3d7cd2f"
+          }
+        },
+        {
+          "client_id": "642896628961-9n17fqfpltp7iqs81tse9ber4396pskn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACOtWWAGyRJK2_kfdvSh5tZC1yUuyte_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642896628961-9n17fqfpltp7iqs81tse9ber4396pskn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
